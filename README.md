@@ -1,4 +1,4 @@
-# Cache-Always
+# Cache-Always-No-Key-Check
 
 A fork of [actions/cache](https://github.com/actions/cache) to always cache when
 a run finishes, even if the cache was hit.

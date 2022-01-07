@@ -1,4 +1,4 @@
-name: 'Cache-Always'
+name: 'Cache-Always-No-Key-Check'
 description: 'Fork of actions/cache to always save cache even if tests pass/cache hit succeeded'
 author: 'TerrenceHo'
 inputs:
