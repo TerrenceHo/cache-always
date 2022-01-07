@@ -1,3 +1,11 @@
+# Cache-Always
+
+A fork of [actions/cache](https://github.com/actions/cache) to always cache when
+a run finishes, even if the cache was hit.
+
+Additionally, this variant will no longer check for the key match, forcing it to
+save even if the cache hit occured on the primary key.
+
 # cache
 
 This action allows caching dependencies and build outputs to improve workflow execution time.
